@@ -48,5 +48,7 @@
 
 ## Remover Login GIT do Terminal
 > git config --unset-all user.name
+
 > git config --unset-all user.email
+
 > git config --unset-all credential.helper
